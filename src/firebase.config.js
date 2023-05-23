@@ -6,12 +6,12 @@ import {getStorage} from "firebase/storage"
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCJgDmC8vfUXPd6OtpQ6RewJBUwnQKlpE8",
-  authDomain: "homie-squad.firebaseapp.com",
-  projectId: "homie-squad",
-  storageBucket: "homie-squad.appspot.com",
-  messagingSenderId: "1047979757694",
-  appId: "1:1047979757694:web:6128d0f12ee4246121482f"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 
